@@ -1,16 +1,40 @@
-## Hi there 👋
+# Anthony
 
-<!--
-**anthonypapad1/anthonypapad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder. I build software products and ship them with a small team and a fleet of AI agents.
 
-Here are some ideas to get you started:
+Not a traditional developer. I move fast using AI to handle what used to require a full engineering org.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```python
+model = {
+    "ideas": "me",
+    "building": "AI agents",
+    "shipping": "constantly",
+    "bottleneck": "never execution"
+}
+```
+
+---
+
+### What I'm building
+
+Products in real estate tech, fitness, and health, all running with autonomous agents handling the execution while I focus on the ideas and the orchestration.
+
+---
+
+### How I work
+
+- Vibe coding with Cursor, Lovable, Claude
+- Working on autonomous agents for marketing, ops, and growth
+- Private repos. Everything here is a work in progress or a proof of concept.
+
+---
+
+### What I'm interested in
+
+AI agents. Autonomous systems. Building businesses where the bottleneck is the idea, not the execution.
+
+---
+
+<sub>Everything here is either breaking or about to ship.</sub>
