@@ -1,8 +1,6 @@
 # Anthony
 
-Founder. I build software products and ship them with a small team and a fleet of AI agents.
-
-Not a traditional developer. I move fast using AI to handle what used to require a full engineering org.
+it's me. 
 
 ---
 
@@ -19,14 +17,14 @@ model = {
 
 ### What I'm building
 
-Products in real estate tech, fitness, and health, all running with autonomous agents handling the execution while I focus on the ideas and the orchestration.
+Products in real estate tech. Learning to run with autonomous agents handling the execution while I focus on the ideas and the orchestration.
 
 ---
 
 ### How I work
 
-- Vibe coding with Cursor, Lovable, Claude
-- Working on autonomous agents for marketing, ops, and growth
+- Vibe coding with Lovable, Claude
+- Working on autonomous agents for marketing, ops, and growth with Open Claw, their name is Leo. 
 - Private repos. Everything here is a work in progress or a proof of concept.
 
 ---
